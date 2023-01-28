@@ -1,0 +1,18 @@
+body{
+    background-color:rgba(54, 156, 47, 0.737);
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.class1{
+    border: solid black 1px;
+}
+
+h1,h2 {
+    text-align: center;
+}
+.pizza {
+    border: solid black 0.2em;
+    margin: auto;
+    display: block;
+}
